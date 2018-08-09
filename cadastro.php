@@ -18,12 +18,23 @@
                 </ul>    
             </nav>    
         </header>
+        <!-- Cadastro para contas jurídicas-->
         <div class="main">
-            <form action="">
-                <input type="text" name="nome_sobrenome">    
-                <input type="text" name="nome_sobrenome">    
-                <input type="text" name="nome_sobrenome">    
-            </form>        
+            <center><form action="#" method="post" class="formCadastroJr">       
+                <label><br>
+                    <input type="text" name="nome_sobrenome" placeholder=" nome e sobrenome" class="campoCadastro">
+                </label><br>
+                <label>
+                    <input type="text" name="email" placeholder="E-mail" class="campoCadastro">    
+                </label><br>
+                <label>
+                    <input type="text" name="cnpj" placeholder="Digite o CNPJ" class="campoCadastro">    
+                </label><br>
+                <label>
+                    <input type="text" name="nome_fantasia" placeholder="Nome Fantasia" class="campoCadastro">    
+                </label><br>
+                <button type="submit">Cadastrar</button>
+            </form></center>        
         </div>
     </body>
 </html>
