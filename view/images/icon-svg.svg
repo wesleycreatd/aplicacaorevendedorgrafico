@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X7 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="260.096mm" height="195.072mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 26010 19507"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+	
+   <![CDATA[
+    .str1 {stroke:#FFF212;stroke-width:7.62}
+    .str0 {stroke:#EC268F;stroke-width:7.62}
+    .str2 {stroke:#0EBCEB;stroke-width:7.62}
+    .str3 {stroke:#00AFEF;stroke-width:7.62}
+    .fil0 {fill:#FEFEFE}
+    .fil3 {fill:#FFF212}
+    .fil2 {fill:#EC268F}
+    .fil4 {fill:#0EBCEB}
+    .fil1 {fill:#00AFEF}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0" d="M68444 11199l349 163c59,30 113,53 173,83l705 334c27,13 162,82 178,83 39,3 419,-202 527,-245l884 -418 0 -1858c-28,6 -58,25 -85,39 -32,16 -61,27 -91,41l-1229 583c-20,1 -510,-235 -616,-288 -32,-16 -58,-25 -90,-41l-705 -334 0 1858zm2632 -122l0 -1454 -1135 532 0 1454 1135 -532zm-2457 0l0 -1454 1135 532 0 1454 -1135 -532z"/>
+  <polygon class="fil1" points="68772,10012 68772,10588 69140,10775 69140,10166 "/>
+  <polygon class="fil2 str0" points="70912,10512 70544,10693 70544,11022 70923,10830 "/>
+  <polygon class="fil3 str1" points="68772,10846 69603,11239 69603,11162 68772,10767 "/>
+  <polygon class="fil3" points="69320,10258 69320,10346 69603,10480 69603,10402 "/>
+  <polygon class="fil2" points="69320,10512 69320,10600 69603,10735 69603,10656 "/>
+  <polygon class="fil1" points="69320,10767 69320,10855 69603,10989 69603,10911 "/>
+  <polygon class="fil3 str1" points="70923,10012 70089,10402 70089,10468 70923,10089 "/>
+  <polygon class="fil4 str2" points="70923,10258 70089,10647 70089,10713 70923,10335 "/>
+  <polygon class="fil0" points="70373,10767 70373,10855 70089,10989 70089,10911 "/>
+  <polygon class="fil1 str3" points="70373,11022 70373,11110 70089,11244 70089,11166 "/>
+ </g>
+</svg>
