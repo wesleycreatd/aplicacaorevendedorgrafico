@@ -5,7 +5,8 @@ body{background-color:#212529 !important; color:#fff !important; font-family:cic
 @media(max-width: 700px){.main{margin: 10px;}}
 @media(max-width:700px){.main form label .campoCadastro{border-left: none;border-right: none;border-top:none;border-bottom: solid 0.1px #ccc; background: none;}}
 
-@media(max-width:700px){.main form label .campoCadastro ::-webkit-input-placeholder{color:#fff;}}
+@media(max-width:700px){.main form label  ::-webkit-input-placeholder{color:#fff}}
+@media(max-width:700px){.main form label  ::-webkit-input:focus{display: none;}}
 
 
 
