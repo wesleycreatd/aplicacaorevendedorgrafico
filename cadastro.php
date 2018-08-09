@@ -21,7 +21,7 @@
         <div class="main">
             <form action="">
                 <input type="text" name="nome_sobrenome">    
-                <input type="text" name="nome_sobrenome">    
+                  
                 <input type="text" name="nome_sobrenome">    
             </form>        
         </div>
