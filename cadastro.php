@@ -33,7 +33,7 @@
                 <label>
                     <input type="text" name="nome_fantasia" placeholder="Nome Fantasia" class="campoCadastro">    
                 </label><br>
-                <button type="submit">Cadastrar</button>
+                <button type="submit" class="btSubmit">Cadastrar</button>
             </form></center>        
         </div>
     </body>

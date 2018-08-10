@@ -1,13 +1,13 @@
 @font-face{font-family: cicle; src: url('../fonts/Cicle-Fina.ttf');}
 body{background-color:#212529 !important; color:#fff !important; font-family:cicle !important;}
-
+*:focus {outline: none;}
 /* Configuração para mobile first ==Resoluções de 350px á 700px*/
 @media(max-width: 700px){.main{margin: 10px;}}
-@media(max-width:700px){.main form label .campoCadastro{border-left: none;border-right: none;border-top:none;border-bottom: solid 0.1px #ccc; background: none;}}
-
-@media(max-width:700px){.main form label  ::-webkit-input-placeholder{color:#fff}}
+@media(max-width: 700px){.formCadastroJr{top:150px; position:relative;}}
+@media(max-width:700px){.main form label .campoCadastro{padding-top:20px;width:250px;color:#fff;border-left: none;border-right: none;border-top:none;border-bottom: solid 0.1px #ccc; background: none;}}
+@media(max-width:700px){.main form label  ::-webkit-input-placeholder{color:#fff;}}
+@media(max-width:700px){.main form .btSubmit{color: #fff;width: 252px;background-color: #46a227;border-radius: 34px;height: 44px;border: none;margin-top: 18px;}}
 @media(max-width:700px){.main form label  ::-webkit-input:focus{display: none;}}
-
 
 
 
